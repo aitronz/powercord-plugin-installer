@@ -1,6 +1,6 @@
 # powercord-plugin-installer
 An easy powercord plugin installer<p></p>
-### V1 Manually add powercord pplugin folder directory (You don't have to change nothing in the file)<p></p>
+### V1 Manually add powercord plugin folder directory (You don't have to change nothing in the file)<p></p>
 ### V2 Automatic: 
 1. First do right click on the bat file next click edit
 2. You need to add here your plugin powercord directory.<p></p>
