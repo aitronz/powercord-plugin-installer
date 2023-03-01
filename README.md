@@ -1,5 +1,5 @@
 # powercord-puglin-installer
-An easy powercord puglin installer<p></p>
+An easy powercord plugin installer<p></p>
 ### V1 Manually add powercord puglin folder directory (You don't have to change nothing in the file)<p></p>
 ### V2 Automatic: 
 1. First do right click on the bat file next click edit
